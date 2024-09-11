@@ -1,9 +1,9 @@
 <h1  align="center">Hi 👋, I'm WAI YAN MIN LWIN</h1>
-<h3  align="center">A Frontend Engineer from Myanmar</h3>
+<h3  align="center">A Software Engineer living in Bangkok</h3>
 
   
 
-- 🔭 I’m currently working on **Thetys Myanmar**
+- 🔭 I’m currently working on **Fusion Solution**
 
   
 
