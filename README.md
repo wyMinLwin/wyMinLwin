@@ -7,7 +7,7 @@
 
   
 
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **Rust**
 
   
 
@@ -15,7 +15,7 @@
 
   
 
-- ⚡ Fun fact **I think Svelte is the future xD**
+- ⚡ Fun fact **A SWE handling a bunch of project but nothing else xD**
 
   
 
