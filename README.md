@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Fusion Solution Co., Ltd.**
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **waiyanminlwin421@gmail.com**
-- ⚡ Fun fact **A SWE handling a bunch of project but nothing else xD**
+- ⚡ Fun fact **I love building things and helping people to build things**
 
 <h2 align="left">Connect with me:</h2>
 
