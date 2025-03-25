@@ -6,13 +6,13 @@
 - 📫 How to reach me **waiyanminlwin421@gmail.com**
 - ⚡ Fun fact **I love building things and helping people to build things**
 
-<h2 align="left">Connect with me:</h2>
+## Connect with me:
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/wyminlwin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clean_freak_scout)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://waiyanminlwin.com/)
 
-<h2 align="left">Languages and Tools:</h2>
+## Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<h2  align="left">Github Status:</h2>
+## Github Trophies:
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=wyMinLwin&theme=onestar&rank=-?&margin-w=15&margin-h=15)
+
+## Github Status:
 
 <picture>
   <source
@@ -53,10 +57,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyMinLwin&layout=compact&theme=dark&border_color=b2afab)
 
-<h2  align="left">Working on:</h2>
+## Working on:
 
-<h3>Frontend Makro</h3>
+### Frontend Makro
 
-<p>With a single command, you can generate a fully-configured Frontend project with all the essential libraries you need — saving you time and effort in setting up your development environment and you can extend as you want later.</p>
+With a single command, you can generate a fully-configured Frontend project with all the essential libraries you need — saving you time and effort in setting up your development environment and you can extend as you want later.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wyMinLwin&repo=frontend-makro&theme=dark&icon_color=fce566&border_color=b2afab)](https://github.com/wyMinLwin/frontend-makro)
