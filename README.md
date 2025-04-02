@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clean_freak_scout)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://waiyanminlwin.com/)
 
-## 💻 Languages and Tools:
+## 💻 Tech Stacks:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
