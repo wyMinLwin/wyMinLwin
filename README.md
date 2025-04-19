@@ -6,6 +6,8 @@
 - 📫 How to reach me **waiyanminlwin421@gmail.com**
 - ⚡ Fun fact **I love building things and helping people to build things**
 
+<img src="https://komarev.com/ghpvc/?username=wyMinLwin&label=Profile%20views&color=02b8a8&style=flat-square" alt="wai yan min lwin" />
+
 ## 📬 Get in Touch:
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/wyminlwin)
