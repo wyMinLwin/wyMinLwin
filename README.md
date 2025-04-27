@@ -48,17 +48,29 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wyMinLwin&show_icons=true&theme=dark&icon_color=fce566&border_color=b2afab"
+    srcset="https://github-readme-stats.vercel.app/api?username=wyMinLwin&show_icons=true&theme=dark&icon_color=fce566&border_color=b2afab&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wyMinLwin&show_icons=true&border_color=b2afab"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=wyMinLwin&show_icons=true&border_color=b2afab&count_private=true"
+    media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=wyMinLwin&show_icons=true&border_color=b2afab" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyMinLwin&layout=compact&theme=dark&border_color=b2afab)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyMinLwin&layout=compact&theme=dark&border_color=b2afab&count_private=true)
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=wyMinLwin&theme=dark&icon_color=fce566&border_color=b2afab&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=wyMinLwin&theme=dark&icon_color=fce566&border_color=b2afab&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyMinLwin&theme=dark&icon_color=fce566&border_color=b2afab&count_private=true" />
+</picture>
 
 ## 🚀 Working on:
 
