@@ -4,7 +4,7 @@
 - 💼 I’m currently working on **Fusion Solution Co., Ltd.**
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **waiyanminlwin421@gmail.com**
-- ⚡ Fun fact **I love building things and helping people to build things and I have very beautiful girlfriend btw**
+- ⚡ Fun fact **I have a very beautiful girlfriend, btw**
 
 <img src="https://komarev.com/ghpvc/?username=wyMinLwin&label=Profile%20views&color=02b8a8&style=flat-square" alt="wai yan min lwin" />
 
