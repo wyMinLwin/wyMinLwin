@@ -74,10 +74,10 @@
 
 ## 🚀 Working on:
 
-### 📦 Frontend Makro
+### 📦 Scaffa
 🔹 Generate a fully-configured Frontend project with a single command.  
 🔹 Prebuilt templates with essential libraries.  
 🔹 Save time & effort, focus on development.  
 🔹 Fully customizable & extendable. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wyMinLwin&repo=frontend-makro&theme=dark&icon_color=fce566&border_color=b2afab)](https://github.com/wyMinLwin/frontend-makro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wyMinLwin&repo=scaffa&theme=dark&icon_color=fce566&border_color=b2afab)](https://github.com/wyMinLwin/scaffa)
