@@ -4,6 +4,9 @@
 - 💼 I’m currently working on **Fusion Solution Co., Ltd.**
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **waiyanminlwin421@gmail.com**
+- ⚡ Fun fact: **I have a very beautiful girlfriend, btw**
+
+
 
 ![Wai Yan Min Lwin](https://komarev.com/ghpvc/?username=wyMinLwin&label=Profile%20views&color=02b8a8&style=flat-square)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/waiyanminlwin)
@@ -55,16 +58,6 @@
 
 ![Stats](https://github-readme-stats-wyml.vercel.app/api?username=wyMinLwin&show_icons=true&theme=dark&icon_color=fce566&border_color=b2afab&count_private=true)
 
-![Top Langs](https://github-readme-stats-wyml.vercel.app/api/top-langs/?username=wyMinLwin&layout=compact&theme=dark&border_color=b2afab&count_private=true)
 
 ![Streak](https://github-readme-streak-stats-beta-eight-30.vercel.app/?user=wyMinLwin&theme=dark&icon_color=fce566&border_color=b2afab&count_private=true)
 
-## 🚀 Working on:
-
-### 📦 Scaffa
-🔹 Generate a fully-configured Frontend project with a single command.  
-🔹 Prebuilt templates with essential libraries.  
-🔹 Save time & effort, focus on development.  
-🔹 Fully customizable & extendable. 
-
-[![Readme Card](https://github-readme-stats-wyml.vercel.app/api/pin/?username=wyMinLwin&repo=scaffa&theme=dark&icon_color=fce566&border_color=b2afab)](https://github.com/wyMinLwin/scaffa)
