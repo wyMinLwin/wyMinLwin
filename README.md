@@ -2,7 +2,7 @@
 <p align="center">A passionate and proven <b>Software Engineer</b> specializing in building <b>efficient</b>, <b>scalable</b>, and <b>impactful software solutions</b>.</p>
 
 - 💼 I’m currently working on **Fusion Solution Co., Ltd.**
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **waiyanminlwin421@gmail.com**
 - ⚡ Fun fact: **I have a very beautiful girlfriend, btw**
 
