@@ -4,7 +4,7 @@
 - 💼 I’m currently working on **Fusion Solution Co., Ltd.**
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **waiyanminlwin421@gmail.com**
-- ⚡ Fun fact: **I have a very beautiful girlfriend, btw**
+- ✨ Fun fact: **I have a very beautiful girlfriend, btw**
 
 
 
@@ -52,12 +52,15 @@
 
 ## 🏆 Github Trophies:
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=wyMinLwin&theme=onestar&rank=-?&margin-w=15&margin-h=15)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=wyMinLwin&theme=nord&rank=-?&margin-w=15&margin-h=15)
 
 ## 📊 Github Status:
 
-![Stats](https://github-readme-stats-wyml.vercel.app/api?username=wyMinLwin&show_icons=true&theme=dark&icon_color=fce566&border_color=b2afab&count_private=true)
+![Stats](https://github-readme-stats-wyml.vercel.app/api?username=wyMinLwin&show_icons=true&theme=nord&count_private=true)
 
 
-![Streak](https://github-readme-streak-stats-beta-eight-30.vercel.app/?user=wyMinLwin&theme=dark&icon_color=fce566&border_color=b2afab&count_private=true)
+![Streak](https://github-readme-streak-stats-beta-eight-30.vercel.app/?user=wyMinLwin&theme=nord&count_private=true)
+
+## 🙌🏻 Top Open Source Repo I Contributed:
+![Top Open Source Repo](https://github-contributor-stats.vercel.app/api?username=wyMinLwin&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
