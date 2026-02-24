@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm WAI YAN MIN LWIN</h1>
+<h1 align="center">Hello, I'm WAI YAN MIN LWIN</h1>
 <p align="center">A passionate and proven <b>Software Engineer</b> specializing in building <b>efficient</b>, <b>scalable</b>, and <b>impactful software solutions</b>.</p>
 
-- 💼 I’m currently working on **Fusion Solution Co., Ltd.**
-- 🌱 I’m currently learning **Python**
-- 📫 How to reach me **waiyanminlwin421@gmail.com**
-- ✨ Fun fact: **I have a very beautiful girlfriend, btw**
+- I’m currently working on **Fusion Solution Co., Ltd.**
+- How to reach me **waiyanminlwin421@gmail.com**
+- Fun fact: **I have a very beautiful girlfriend, btw**
 
 
 
 ![Wai Yan Min Lwin](https://komarev.com/ghpvc/?username=wyMinLwin&label=Profile%20views&color=02b8a8&style=flat-square)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/waiyanminlwin)
 
-## 📬 Get in Touch:
+## Get in Touch:
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/wyminlwin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/golden_winddddd)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://waiyanminlwin.com/)
 
-## 💻 Tech Stacks:
+## Tech Stacks:
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,17 +50,17 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-## 🏆 Github Trophies:
+## Github Trophies:
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=wyMinLwin&theme=nord&rank=-?&margin-w=15&margin-h=15)
 
-## 📊 Github Status:
+## Github Status:
 
 ![Stats](https://github-readme-stats-wyml.vercel.app/api?username=wyMinLwin&show_icons=true&theme=nord&count_private=true)
 
 
 ![Streak](https://github-readme-streak-stats-beta-eight-30.vercel.app/?user=wyMinLwin&theme=nord&count_private=true)
 
-## 🙌🏻 Top Open Source Repo I Contributed:
+## Top Open Source Repo I Contributed:
 ![Top Open Source Repo](https://github-contributor-stats.vercel.app/api?username=wyMinLwin&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
