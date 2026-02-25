@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm WAI YAN MIN LWIN</h1>
-<p align="center">A passionate and proven <b>Software Engineer</b> specializing in building <b>efficient</b>, <b>scalable</b>, and <b>impactful software solutions</b>.</p>
+<p align="center">A passionate Software Engineer specializing in building efficient, scalable, and impactful software solutions.</p>
 
 - I’m currently working on **Fusion Solution Co., Ltd.**
 - How to reach me **waiyanminlwin421@gmail.com**
