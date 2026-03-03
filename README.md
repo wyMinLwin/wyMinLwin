@@ -2,7 +2,7 @@
 <p align="center">A passionate Software Engineer specializing in building efficient, scalable, and impactful software solutions.</p>
 
 - I’m currently working on **Fusion Solution Co., Ltd.**
-- How to reach me **waiyanminlwin421@gmail.com**
+- How to reach me **waiyanminlwin421@gmail.com**/**waiyanminlwin@fusionsol.com**
 - Fun fact: **I have a very beautiful girlfriend, btw**
 
 
