@@ -63,5 +63,4 @@
 ![Streak](https://github-readme-streak-stats-beta-eight-30.vercel.app/?user=wyMinLwin&theme=nord&count_private=true)
 
 ## Top Open Source Repo I Contributed:
-![Top Open Source Repo](https://github-contributor-stats.vercel.app/api?username=wyMinLwin&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
+![Top Open Source Repo](https://grcs-wyml.vercel.app/api?username=wyMinLwin&limit=5&theme=nord&combine_all_yearly_contributions=true)
