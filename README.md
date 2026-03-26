@@ -4,8 +4,6 @@
 - I’m currently working on **Fusion Solution Co., Ltd.**
 - How to reach me **waiyanminlwin421@gmail.com**/**waiyanminlwin@fusionsol.com**
 - I love building libraries, SDKs and CLI tools.
-- Fun fact: **I have a very beautiful girlfriend, btw**
-
 
 
 ![Wai Yan Min Lwin](https://komarev.com/ghpvc/?username=wyMinLwin&label=Profile%20views&color=02b8a8&style=flat-square)
