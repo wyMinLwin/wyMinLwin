@@ -5,6 +5,7 @@
 - How to reach me **waiyanminlwin421@gmail.com**/**waiyanminlwin@fusionsol.com**
 - I love building libraries, SDKs and CLI tools.
 
+![Currently Playing](https://wyml-currently-playing.vercel.app/api/spotify/currently-playing/33dP82pPZ87A)
 
 ![Wai Yan Min Lwin](https://komarev.com/ghpvc/?username=wyMinLwin&label=Profile%20views&color=02b8a8&style=flat-square)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/waiyanminlwin)
